@@ -1,0 +1,18 @@
+name: Report a dead link or mistake
+description: A tool shut down, moved, or its description is wrong
+title: "Problem: "
+labels: [problem]
+body:
+  - type: input
+    id: name
+    attributes: { label: Tool name }
+    validations: { required: true }
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What's wrong?
+      options: [Website is dead or shut down, Website moved to a new address, Description is wrong or outdated, Wrong category, Something else]
+    validations: { required: true }
+  - type: textarea
+    id: details
+    attributes: { label: Details (new address, what changed, links) }

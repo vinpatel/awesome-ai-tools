@@ -1,0 +1,35 @@
+name: Suggest a tool
+description: Tell us about an AI tool that should be on the list
+title: "Suggest: "
+labels: [suggestion]
+body:
+  - type: input
+    id: name
+    attributes: { label: Tool name }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Website, placeholder: "https://" }
+    validations: { required: true }
+  - type: input
+    id: what
+    attributes: { label: What does it do? (one line) }
+    validations: { required: true }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - "Chat & Assistants"
+        - "Writing & Email"
+        - "Career & Jobs"
+        - "Pictures & Design"
+        - "Video & Audio"
+        - "Meetings & Work"
+        - "Websites & Business"
+        - "Build Apps (No Code)"
+        - "Developer"
+        - "Learning & Research"
+  - type: markdown
+    attributes:
+      value: "Every tool is checked before it's listed. Makers can also [submit on 123ofnet.com](https://123ofnet.com/submit/)."

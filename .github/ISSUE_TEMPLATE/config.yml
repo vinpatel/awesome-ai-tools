@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Remove my tool (owners)
+    url: https://123ofnet.com/opt-out/
+    about: Free, no reason needed. Please use the opt-out page so we can verify you own the tool.
+  - name: Search all 2,629 tools
+    url: https://123ofnet.com/directory/
+    about: Find a tool by what you want to do.

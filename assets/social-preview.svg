@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Awesome AI Tools by 123ofnet.com">
+  <rect width="1280" height="640" fill="#008080"/>
+  <rect x="40" y="20" width="1200" height="600" fill="#C0C0C0" stroke="#000" stroke-width="2"/>
+  <path d="M42 618V22H1238" fill="none" stroke="#fff" stroke-width="3"/>
+  <rect x="46" y="26" width="1188" height="44" fill="#000080"/>
+  <text x="62" y="56" font-family="Verdana, Tahoma, sans-serif" font-size="22" font-weight="bold" fill="#fff">123ofnet.com - Awesome AI Tools</text>
+  <rect x="1112" y="33" width="32" height="30" fill="#C0C0C0" stroke="#000"/><text x="1128" y="55" font-family="Verdana, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">_</text><rect x="1150" y="33" width="32" height="30" fill="#C0C0C0" stroke="#000"/><text x="1166" y="55" font-family="Verdana, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">□</text><rect x="1188" y="33" width="32" height="30" fill="#C0C0C0" stroke="#000"/><text x="1204" y="55" font-family="Verdana, sans-serif" font-size="18" font-weight="bold" text-anchor="middle">×</text>
+  <text x="640" y="204" font-family="Verdana, Tahoma, sans-serif" font-size="56" font-weight="bold" fill="#000" text-anchor="middle">Find the right <tspan fill="#CC0000">AI tool</tspan> for anything</text>
+  <text x="640" y="274" font-family="Verdana, Tahoma, sans-serif" font-size="30" fill="#000" text-anchor="middle">2,629 tools · sorted by the job · every link checked weekly</text>
+  <text x="640" y="364" font-family="Verdana, Tahoma, sans-serif" font-size="26" fill="#000080" text-anchor="middle">Quick picks by a person · free JSON/CSV data · AI Tool Graveyard</text>
+  <rect x="380" y="510" width="520" height="64" fill="#FFFF99" stroke="#000" stroke-width="2"/>
+  <text x="640" y="552" font-family="'Courier New', monospace" font-size="30" font-weight="bold" fill="#000" text-anchor="middle">123ofnet.com · est. 2000</text>
+</svg>

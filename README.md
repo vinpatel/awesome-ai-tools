@@ -1,26 +1,68 @@
-# Awesome AI Tools by 123ofnet
+<div align="center">
 
-> A checked list of 2,629 AI tools for normal people and small businesses, sorted by what you want to get done.
+<a href="https://123ofnet.com"><img src="assets/banner.svg" alt="Awesome AI Tools by 123ofnet.com: 2,629 AI tools, checked every week" width="100%"></a>
 
-This list is generated from the directory at **[123ofnet.com](https://123ofnet.com)**, where every tool has its own page with what it does, who it's for and its closest alternatives.
-Search all of them at [123ofnet.com/directory](https://123ofnet.com/directory/).
+# Awesome AI Tools
 
-**Status:** ✅ 2,629 tools · every website checked weekly · last updated 2026-11-23 · data as [JSON](data/tools.json) and [CSV](data/tools.csv) · [what changed](CHANGELOG.md)
+**2,629 AI tools for normal people and small businesses, sorted by what you want to get done.<br>Every website re-checked every week. Dead tools get removed, not left to rot.**
 
-**Legend:** quick picks are chosen by a person. "Details & alternatives" opens the tool's page on 123ofnet.com.
+[![Tools](https://img.shields.io/badge/tools-2%2C629-008080?style=flat-square)](data/tools.json)
+[![Checked](https://img.shields.io/badge/links-checked%20weekly-2ea44f?style=flat-square)](CHANGELOG.md)
+[![Updated](https://img.shields.io/badge/updated-2026--11--23-000080?style=flat-square)](CHANGELOG.md)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/vinpatel/awesome-ai-tools?style=flat-square&color=yellow)](https://github.com/vinpatel/awesome-ai-tools/stargazers)
+
+**[🔎 Search all 2,629 on 123ofnet.com](https://123ofnet.com/directory/)** · **[📦 Get the data (JSON/CSV)](#-use-the-data)** · **[🪦 AI Tool Graveyard](#-the-ai-tool-graveyard)** · **[➕ Suggest a tool](https://123ofnet.com/submit/)**
+
+<sub>⭐ <b>Star this repo</b> to keep it handy. New tools are added and dead ones removed every Monday.</sub>
+
+</div>
+
+---
+
+## Why this list is different
+
+Most "awesome AI" lists are huge, unsorted and full of dead links. This one is built to stay useful:
+
+- ✅ **Checked every week.** A checker loads every tool's website weekly, and a person reviews anything it flags. Shut-down tools go to the [graveyard](#-the-ai-tool-graveyard).
+- 🎯 **Sorted by the job, not the tech.** "Write my resume", "remove a background", "take meeting notes". Start from what you need.
+- 🙋 **Quick picks chosen by a person** at the top of every category, for when you just want a good answer.
+- 📦 **Free, open data.** The whole list is in [JSON](data/tools.json) and [CSV](data/tools.csv), CC BY 4.0. Build on it.
+- 🤝 **Independent.** We aren't connected to the tools listed, and paying never skips the check. No affiliate links.
+- 📟 **Running since 2000.** [123ofnet.com](https://123ofnet.com) started as a student web portal in 2000 ("An easy solution to the Net !!!") and came back for AI.
+
+## 🎯 I want to...
+
+| | |
+|---|---|
+| **[Chat & Assistants](#chat--assistants)** | [AI search](https://123ofnet.com/directory/assistants/ai-search/) · [Browser & extensions](https://123ofnet.com/directory/assistants/browser-and-extensions/) · [Agents that do tasks](https://123ofnet.com/directory/assistants/agents-that-do-tasks/) · [Voice](https://123ofnet.com/directory/assistants/voice/) · [Run privately / open source](https://123ofnet.com/directory/assistants/run-privately-open-source/) · [Many models in one](https://123ofnet.com/directory/assistants/many-models-in-one/) |
+| **[Writing & Email](#writing--email)** | [Grammar & spelling](https://123ofnet.com/directory/writing/grammar-and-spelling/) · [Translation](https://123ofnet.com/directory/writing/translation/) · [Email](https://123ofnet.com/directory/writing/email/) · [Blog & SEO](https://123ofnet.com/directory/writing/blog-and-seo/) · [Social & LinkedIn](https://123ofnet.com/directory/writing/social-and-linkedin/) · [Marketing copy](https://123ofnet.com/directory/writing/marketing-copy/) |
+| **[Career & Jobs](#career--jobs)** | [Resume builders](https://123ofnet.com/directory/career/resume-builders/) · [Cover letters](https://123ofnet.com/directory/career/cover-letters/) · [Interview practice](https://123ofnet.com/directory/career/interview-practice/) · [Job search](https://123ofnet.com/directory/career/job-search/) · [Hiring & recruiting](https://123ofnet.com/directory/career/hiring-and-recruiting/) · [Assessments](https://123ofnet.com/directory/career/assessments/) |
+| **[Pictures & Design](#pictures--design)** | [Image generators](https://123ofnet.com/directory/design/image-generators/) · [Photo editing](https://123ofnet.com/directory/design/photo-editing/) · [Logos](https://123ofnet.com/directory/design/logos/) · [Headshots](https://123ofnet.com/directory/design/headshots/) · [Remove background](https://123ofnet.com/directory/design/remove-background/) · [Interior & architecture](https://123ofnet.com/directory/design/interior-and-architecture/) · [Product photos](https://123ofnet.com/directory/design/product-photos/) |
+| **[Video & Audio](#video--audio)** | [Video generators](https://123ofnet.com/directory/video/video-generators/) · [Video editors](https://123ofnet.com/directory/video/video-editors/) · [Captions & subtitles](https://123ofnet.com/directory/video/captions-and-subtitles/) · [Voices & text-to-speech](https://123ofnet.com/directory/video/voices-and-text-to-speech/) · [Music & songs](https://123ofnet.com/directory/video/music-and-songs/) · [Short clips for social](https://123ofnet.com/directory/video/short-clips-for-social/) · [Podcasts](https://123ofnet.com/directory/video/podcasts/) |
+| **[Meetings & Work](#meetings--work)** | [Meeting notes](https://123ofnet.com/directory/work/meeting-notes/) · [Slides & presentations](https://123ofnet.com/directory/work/slides-and-presentations/) · [Calendar & scheduling](https://123ofnet.com/directory/work/calendar-and-scheduling/) · [Email & inbox](https://123ofnet.com/directory/work/email-and-inbox/) · [Automation](https://123ofnet.com/directory/work/automation/) · [Spreadsheets & data](https://123ofnet.com/directory/work/spreadsheets-and-data/) · [Notes & docs](https://123ofnet.com/directory/work/notes-and-docs/) |
+| **[Websites & Business](#websites--business)** | [Website builders](https://123ofnet.com/directory/business/website-builders/) · [Customer support](https://123ofnet.com/directory/business/customer-support/) · [Phone & receptionist](https://123ofnet.com/directory/business/phone-and-receptionist/) · [Marketing](https://123ofnet.com/directory/business/marketing/) · [Social media](https://123ofnet.com/directory/business/social-media/) · [Online stores](https://123ofnet.com/directory/business/online-stores/) · [Sales](https://123ofnet.com/directory/business/sales/) · [Reviews](https://123ofnet.com/directory/business/reviews/) |
+| **[Build Apps (No Code)](#build-apps-no-code)** | [No-code app builders](https://123ofnet.com/directory/build/no-code-app-builders/) · [Mobile apps](https://123ofnet.com/directory/build/mobile-apps/) · [AI agents & chatbots](https://123ofnet.com/directory/build/ai-agents-and-chatbots/) · [Internal tools](https://123ofnet.com/directory/build/internal-tools/) · [Games](https://123ofnet.com/directory/build/games/) · [Databases & backends](https://123ofnet.com/directory/build/databases-and-backends/) |
+| **[Developer](#developer)** | [Coding agents](https://123ofnet.com/directory/developer/coding-agents/) · [Code review](https://123ofnet.com/directory/developer/code-review/) · [Testing](https://123ofnet.com/directory/developer/testing/) · [Open source](https://123ofnet.com/directory/developer/open-source/) · [Observability & evals](https://123ofnet.com/directory/developer/observability-and-evals/) · [Vector databases](https://123ofnet.com/directory/developer/vector-databases/) · [Security](https://123ofnet.com/directory/developer/security/) · [Model hosting](https://123ofnet.com/directory/developer/model-hosting/) |
+| **[Learning & Research](#learning--research)** | [Tutors](https://123ofnet.com/directory/learn/tutors/) · [Languages](https://123ofnet.com/directory/learn/languages/) · [Flashcards & quizzes](https://123ofnet.com/directory/learn/flashcards-and-quizzes/) · [Research papers](https://123ofnet.com/directory/learn/research-papers/) · [For teachers](https://123ofnet.com/directory/learn/for-teachers/) · [Maths](https://123ofnet.com/directory/learn/maths/) · [Courses](https://123ofnet.com/directory/learn/courses/) |
+
+<sub>Each link opens a short buyer's guide plus every matching tool on 123ofnet.com.</sub>
 
 ## Contents
 
-- [Chat & Assistants](#chat-assistants) (200)
-- [Writing & Email](#writing-email) (220)
-- [Career & Jobs](#career-jobs) (268)
-- [Pictures & Design](#pictures-design) (261)
-- [Video & Audio](#video-audio) (262)
-- [Meetings & Work](#meetings-work) (286)
-- [Websites & Business](#websites-business) (294)
+- [Chat & Assistants](#chat--assistants) (200)
+- [Writing & Email](#writing--email) (220)
+- [Career & Jobs](#career--jobs) (268)
+- [Pictures & Design](#pictures--design) (261)
+- [Video & Audio](#video--audio) (262)
+- [Meetings & Work](#meetings--work) (286)
+- [Websites & Business](#websites--business) (294)
 - [Build Apps (No Code)](#build-apps-no-code) (213)
 - [Developer](#developer) (364)
-- [Learning & Research](#learning-research) (261)
+- [Learning & Research](#learning--research) (261)
+- [📦 Use the data](#-use-the-data)
+- [🪦 The AI Tool Graveyard](#-the-ai-tool-graveyard)
+- [For tool makers](#for-tool-makers)
 
 ## Chat & Assistants
 
@@ -350,9 +392,61 @@ AI learning tools explain hard topics simply, help you study and practise, and f
 
 [All 261 Learning & Research tools](categories/learn.md) · [How to choose learning & research tools on 123ofnet.com](https://123ofnet.com/directory/learn/)
 
+## 📦 Use the data
+
+The whole list is free to use under [CC BY 4.0](LICENSE): just credit and link [123ofnet.com](https://123ofnet.com).
+It's rebuilt every Monday.
+
+```bash
+# Every tool as JSON
+curl -sL https://raw.githubusercontent.com/vinpatel/awesome-ai-tools/main/data/tools.json | jq '.tools[] | select(.category == "Chat & Assistants") | .name'
+```
+
+```python
+import pandas as pd
+tools = pd.read_csv("https://raw.githubusercontent.com/vinpatel/awesome-ai-tools/main/data/tools.csv")
+print(tools.groupby("category").size())
+```
+
+Fields: `name`, `url`, `category`, `description`, `page` (details and alternatives on 123ofnet.com), `lastChecked`.
+
+## 🪦 The AI Tool Graveyard
+
+AI tools come and go fast. These were in the list and have shut down or stopped working. RIP.
+
+| Tool | Category | Removed | What happened |
+|---|---|---|---|
+| Soundful | Video & Audio | 2026-11-23 | Website says the product is no longer available to the public |
+| Gemini Code Assist (individual edition) | Developer | 2026-11-23 | Google shut down the individual edition on June 18, 2026 |
+| Vanna (hosted service) | Developer | 2026-11-23 | Hosted service shut down; the open-source library lives on |
+| Interview Warmup | Career & Jobs | 2026-11-23 | Its link now redirects to a general interview-tips article |
+
+<sub>Know a tool here that's still alive, or one in the list that's dead? [Open an issue](https://github.com/vinpatel/awesome-ai-tools/issues/new/choose).</sub>
+
+## For tool makers
+
+**Listed here?** Add the retro badge to your site or README:
+
+[![Listed on 123ofnet.com](https://123ofnet.com/assets/badge-88x31.svg)](https://123ofnet.com)
+
+```html
+<a href="https://123ofnet.com"><img src="https://123ofnet.com/assets/badge-88x31.svg" width="88" height="31" alt="Listed on 123ofnet.com"></a>
+```
+
+**Not listed yet?** [Submit your tool](https://123ofnet.com/submit/). It's free, and every tool is checked before it goes live.
+**Want your tool removed?** [Opt out](https://123ofnet.com/opt-out/). It's free and you don't need to give a reason.
+
 ## Contributing
 
-Suggest a tool at [123ofnet.com/submit](https://123ofnet.com/submit/) or open an issue. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Suggest a tool at [123ofnet.com/submit](https://123ofnet.com/submit/) or [open an issue](https://github.com/vinpatel/awesome-ai-tools/issues/new/choose). See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+<div align="center">
+
+### ⭐ If this list saved you some searching, star it so others can find it too.
+
+<a href="https://star-history.com/#vinpatel/awesome-ai-tools&Date"><img src="https://api.star-history.com/svg?repos=vinpatel/awesome-ai-tools&type=Date" alt="Star history" width="600"></a>
+
+</div>
 
 ---
 
